@@ -6,7 +6,7 @@
 - Email: Weiifelse@outlook.com
 - Wechat: Tianyu_qwq666666
 - ⚡ Fun fact: coding
-I'm from Fujian China. I'm a Chinese. I'm a pupil.
+- I'm from Fujian China. I'm a Chinese. I'm a pupil.
 
 <!---
 ChineseCoderTianyu/ChineseCoderTianyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
